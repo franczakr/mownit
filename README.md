@@ -1,2 +1,2 @@
 # mownit
-Takie tam mownity dla Krzycha
+Zadanie z zajęć Metody obliczeniowe w nauce i technice
